@@ -1,0 +1,27 @@
+
+
+.initialsName{
+    margin: 0.5rem 0 0 1rem;
+    border: 2px solid rgb(255, 59, 101);
+    background-color: rgba(255, 59, 101, 0.7);
+    border-radius: 50%;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.author{
+    margin: 0.5rem 0 0 1rem;
+    color: rgba(255, 59, 101, 0.8);
+    font-weight: 500;
+
+}
+
+.content{
+    flex-basis: 100%;
+    margin: 0.5rem 0 1rem 2rem;
+    font-style: italic;
+}
